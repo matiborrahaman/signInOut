@@ -1,7 +1,18 @@
 .App {
   text-align: center;
+  margin-top: 20%;
+ 
+   
 }
 
+.btnStyle{
+  width: 130px;
+  height: 40px;
+  background-color: goldenrod;
+  cursor: pointer;
+  font-size: 22px;
+  
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
